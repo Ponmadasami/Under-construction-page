@@ -8,3 +8,7 @@ body{
 
     overflow: hidden;
 }
+.image{
+    align-items: center;
+    background-color: black;
+}
